@@ -7,12 +7,12 @@
 	<name>Que Comemos?</name>
 
 	<description>
-		An Amazing app by alunny
+		Informacio nutricional de los alimentos
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://www.tiaweb.cl/salud"
+		email="mnovoa@tiaweb.cl">
+		Manuel Novoa Olivares
 	</author>
 
 	<gap:platforms>
@@ -22,9 +22,9 @@
 		<gap:platform name="blackberry" project="widgets"/>
 	</gap:platforms>
 
-	<icon src="blurry.png" gap:role="default" />
+	<icon src="blurry-mio.png" gap:role="default" />
 
-    <gap:splash src="weirdo.png" />
+    <gap:splash src="weirdo-mio.png" />
 
 	<feature name="http://api.phonegap.com/1.0/geolocation"/>
 	<feature name="http://api.phonegap.com/1.0/network"/>
